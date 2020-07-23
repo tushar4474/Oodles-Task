@@ -1,0 +1,9 @@
+ul li a{
+  cursor: pointer;
+}
+
+.mynav{
+  font-weight: bold;
+  font-size:22px;
+
+}
